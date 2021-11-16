@@ -8,7 +8,6 @@ window.onload=function(){
 	boxs.push($("#mys-wrapper"))
 	boxs.push($("#recommendAdBox"))
 	boxs.push($("#bottomAd"))
-	boxs.push($("#csdn-toolbar"))
 	boxs.push($("#footerRightAds"))
 	boxs.push($(".mys-adsbygoogle"))
 	boxs.push($(".toolbar-advert"))
