@@ -5,7 +5,7 @@ chrome.contextMenus.create({
 		chrome.notifications.create(null, {
 			type: 'basic',
 			iconUrl: 'img/icon.png',
-			title: '这是标题',
+			title: '你好',
 			message: '欢迎来到平和猴子的博客'
 		});
 		chrome.tabs.create({url: 'https://b.phhz.work/#/home/website'});
