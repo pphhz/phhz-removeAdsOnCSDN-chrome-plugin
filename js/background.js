@@ -8,6 +8,6 @@ chrome.contextMenus.create({
 			title: '你好',
 			message: '欢迎来到平和猴子的博客'
 		});
-		chrome.tabs.create({url: 'https://b.phhz.work/#/home/website'});
+		chrome.tabs.create({url: 'https://phhz.work/#/home/website'});
 	}
 });
